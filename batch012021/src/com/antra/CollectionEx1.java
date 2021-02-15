@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.ListIterator;
 
 public class CollectionEx1 implements List{
-
+//example 1
 	@Override
 	public boolean add(Object e) {
 		// TODO Auto-generated method stub
