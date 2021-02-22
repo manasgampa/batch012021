@@ -1,7 +1,7 @@
 package com.antra;
 
 public abstract class Car {
-
+//in car
 	public void m1() {
 		
 	}
