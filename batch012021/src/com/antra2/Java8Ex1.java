@@ -10,7 +10,7 @@ import java.util.stream.Stream;
 import com.antra2.Person;
 
 public class Java8Ex1 {
-	
+	//manas
 	public static void main(String[] args) {
 		
 		/*List<Integer> intList = Arrays.asList(2, 4, 5, 6, 8);
