@@ -1,7 +1,7 @@
 package com.antra2;
 
 public class DeadLockEx {
-	
+	//manas
 	public static void main(String[] args) {
 		A a=new A();
 		B b=new B();
