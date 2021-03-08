@@ -12,7 +12,7 @@ import com.antra2.Person;
 public class Java8Ex1 {
 	
 	public static void main(String[] args) {
-		
+		//manas 3
 		/*List<Integer> intList = Arrays.asList(2, 4, 5, 6, 8);
 		
 		Integer i=intList.stream().reduce(0,(a,b)->a+b);
